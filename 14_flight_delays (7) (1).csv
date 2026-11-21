@@ -1,0 +1,914 @@
+Flight_ID,Flight_Date,Airline,Origin,Destination,Departure_Time,Departure_Delay_Mins,Arrival_Delay_Mins,Delay_Cause,Canceled,Diverted
+F00000,2026-08-23,Air India,MAA,MAA,Evening,47.1,0.0,Carrier,No,No
+F00001,2026-08-04,IndiGo,HYD,BOM,Afternoon,0.0,35.3,Weather,No,No
+F00002,2026-10-31,Vistara,BOM,MAA,Afternoon,38.0,1.7,Weather,No,No
+F00003,2025-11-22,SpiceJet,CCU,MAA,Afternoon,35.0,9.1,Weather,No,No
+F00004,2025-08-29,SpiceJet,HYD,HYD,Night,12.4,6.3,None,No,No
+F00005,2026-05-23,Vistara,BOM,MAA,Morning,35.9,0.0,Air Traffic,No,No
+F00006,2026-04-29,SpiceJet,MAA,MAA,Evening,25.6,0.0,Air Traffic,No,No
+F00007,2025-05-22,Vistara,MAA,HYD,Night,39.4,9.3,Security,No,Yes
+F00008,2025-12-28,IndiGo,HYD,CCU,Evening,0.0,31.6,Weather,No,No
+F00009,2026-03-07,IndiGo,DEL,HYD,Evening,43.5,73.5,Weather,No,No
+F00010,2025-11-01,Vistara,BLR,HYD,Evening,57.9,38.8,Carrier,No,No
+F00011,2025-09-06,IndiGo,HYD,BLR,Evening,33.2,73.7,Carrier,No,No
+F00012,2025-06-10,SpiceJet,MAA,HYD,Evening,43.0,0.0,Security,No,No
+F00013,2025-10-03,Air India,CCU,BOM,Night,18.2,9.7,None,No,No
+F00014,2025-06-14,Air India,BOM,BOM,Evening,53.2,,Security,No,No
+F00015,2025-07-20,Vistara,HYD,BOM,Night,24.3,40.7,None,No,No
+F00016,2025-05-04,Air India,BOM,DEL,Evening,0.0,0.0,Air Traffic,No,No
+F00017,2025-09-09,Air India,BLR,MAA,Night,50.7,64.4,Carrier,No,No
+F00018,2026-02-27,IndiGo,HYD,BOM,Night,0.0,5.7,Carrier,No,No
+F00019,2025-09-10,Air India,HYD,CCU,Morning,31.9,0.0,Weather,No,No
+F00020,2025-04-06,IndiGo,BLR,BLR,Night,8.6,46.5,None,No,No
+F00021,2026-06-20,Vistara,BLR,BLR,Evening,6.3,27.2,Security,No,No
+F00022,2025-10-16,IndiGo,CCU,BOM,Afternoon,28.0,6.1,Security,No,No
+F00023,2026-01-26,Akasa,HYD,CCU,Night,0.0,4.7,Carrier,No,Yes
+F00024,2025-12-17,Air India,DEL,HYD,Morning,39.9,0.0,Security,No,No
+F00025,2025-12-05,SpiceJet,CCU,BLR,Evening,24.0,11.2,Carrier,No,No
+F00026,2025-10-21,Vistara,HYD,HYD,Evening,0.4,71.0,Air Traffic,No,No
+F00027,2026-05-21,SpiceJet,CCU,CCU,Night,68.8,36.8,Security,No,No
+F00028,2026-07-26,SpiceJet,CCU,HYD,Evening,29.2,65.3,None,No,No
+F00029,2026-08-28,Air India,BOM,BLR,Evening,44.1,47.6,Air Traffic,No,No
+F00030,2025-10-24,SpiceJet,MAA,MAA,Evening,71.6,2.5,Security,No,No
+F00031,2025-08-17,IndiGo,MAA,MAA,Evening,71.0,0.0,Air Traffic,No,No
+F00032,2025-02-25,SpiceJet,DEL,MAA,Night,42.3,0.0,Air Traffic,No,No
+F00033,2025-10-24,IndiGo,BOM,DEL,Night,11.4,0.2,None,No,No
+F00034,2026-10-26,IndiGo,BOM,MAA,Morning,0.0,0.0,None,No,No
+F00035,2025-06-24,SpiceJet,MAA,BOM,Evening,29.2,66.2,Carrier,No,No
+F00036,2026-07-20,Akasa,MAA,HYD,Afternoon,60.3,65.8,None,No,No
+F00037,2026-05-22,Akasa,BOM,HYD,Morning,34.4,115.5,Air Traffic,No,No
+F00038,2026-03-18,SpiceJet,HYD,BOM,Night,0.0,0.0,Security,No,No
+F00039,2026-01-14,Vistara,BOM,DEL,Night,52.5,90.9,Air Traffic,No,No
+F00040,2026-05-21,Vistara,DEL,MAA,Night,54.6,90.7,Security,No,No
+F00041,2025-03-07,Akasa,BOM,MAA,Afternoon,11.5,17.7,None,No,No
+F00042,2025-03-27,IndiGo,DEL,BOM,Afternoon,56.6,45.9,Air Traffic,No,No
+F00043,2025-05-11,Akasa,MAA,HYD,Night,44.0,76.6,Security,No,No
+F00044,2026-05-28,SpiceJet,CCU,DEL,Morning,0.0,24.6,Air Traffic,No,No
+F00045,2025-10-17,SpiceJet,BOM,HYD,Morning,66.5,21.5,Security,No,No
+F00046,2025-05-19,Vistara,HYD,BOM,Afternoon,0.0,1.9,Weather,No,No
+F00047,2025-01-31,Akasa,BOM,CCU,Evening,20.0,0.0,Security,No,No
+F00048,2025-11-24,SpiceJet,HYD,HYD,Afternoon,16.5,29.8,Air Traffic,No,No
+F00049,2025-09-24,Air India,MAA,BLR,Morning,0.0,0.0,Air Traffic,No,No
+F00050,2025-04-30,SpiceJet,MAA,CCU,Evening,32.6,0.0,Carrier,No,No
+F00051,2025-01-16,SpiceJet,CCU,BLR,Night,67.9,43.9,Security,No,No
+F00052,2026-05-20,Akasa,BOM,DEL,Afternoon,65.7,0.0,Carrier,No,No
+F00053,2026-06-06,Akasa,BOM,HYD,Afternoon,47.3,59.2,Weather,No,No
+F00054,2025-06-14,Akasa,DEL,CCU,Afternoon,0.0,46.3,None,No,No
+F00055,2025-11-27,Air India,DEL,BLR,Afternoon,0.0,11.0,Air Traffic,No,No
+F00056,2025-06-19,SpiceJet,HYD,BOM,Evening,27.8,24.5,Weather,No,No
+F00057,2025-10-01,Akasa,HYD,DEL,Afternoon,20.8,0.0,Carrier,No,No
+F00058,2025-03-15,Akasa,MAA,BOM,Evening,4.6,57.0,None,No,No
+F00059,2026-09-26,Vistara,DEL,CCU,Morning,88.7,34.5,Carrier,No,No
+F00060,2026-04-28,Akasa,BOM,BOM,Evening,25.7,37.5,Carrier,No,No
+F00061,2026-08-26,Akasa,CCU,MAA,Morning,41.0,47.1,Air Traffic,No,No
+F00062,2025-07-17,Air India,CCU,BOM,Afternoon,56.6,1.3,Weather,No,No
+F00063,2026-08-07,Akasa,BLR,BLR,Night,23.9,0.0,Air Traffic,No,No
+F00064,2025-12-13,SpiceJet,DEL,CCU,Afternoon,112.7,65.3,Weather,No,No
+F00065,2025-05-13,Vistara,BLR,HYD,Evening,0.0,54.5,None,No,No
+F00066,2025-08-11,Air India,BOM,DEL,Afternoon,0.8,5.6,Air Traffic,No,No
+F00067,2026-06-27,Akasa,HYD,DEL,Night,0.0,43.4,Carrier,No,No
+F00068,2026-06-03,IndiGo,MAA,BOM,Night,76.7,77.3,Air Traffic,No,No
+F00069,2026-04-27,Vistara,BOM,MAA,Night,50.1,72.5,Weather,No,No
+F00070,2025-06-01,IndiGo,DEL,DEL,Afternoon,3.0,4.4,Carrier,Yes,No
+F00071,2026-03-10,Akasa,CCU,DEL,Afternoon,0.0,0.0,Weather,No,No
+F00072,2026-09-22,Vistara,DEL,CCU,Evening,70.5,0.0,Security,No,No
+F00073,2025-02-02,Air India,MAA,HYD,Night,34.7,14.5,None,No,No
+F00074,2025-08-03,Air India,CCU,MAA,Evening,71.4,85.5,Air Traffic,No,No
+F00075,2025-02-23,Akasa,BLR,BOM,Evening,19.9,0.0,Weather,No,No
+F00076,2025-03-11,IndiGo,BLR,HYD,Night,39.9,3.1,Weather,No,No
+F00077,2026-10-30,SpiceJet,BLR,DEL,Night,32.5,2.3,None,No,No
+F00078,2025-06-10,Air India,BLR,HYD,Afternoon,0.2,5.7,Carrier,No,No
+F00079,2025-05-01,Akasa,MAA,DEL,Morning,17.0,26.6,Carrier,No,No
+F00080,2025-02-19,SpiceJet,CCU,MAA,Afternoon,0.0,0.0,Weather,No,No
+F00081,2026-10-19,IndiGo,BOM,BLR,Evening,39.3,70.4,Security,No,No
+F00082,2025-11-10,Akasa,BOM,BOM,Night,48.6,21.2,Weather,No,No
+F00083,2026-06-14,IndiGo,HYD,MAA,Afternoon,56.7,126.2,None,No,No
+F00084,2025-06-17,Akasa,HYD,DEL,Morning,45.3,0.0,Carrier,No,No
+F00085,2026-03-05,Vistara,CCU,CCU,Afternoon,17.5,,Weather,No,No
+F00086,2026-08-16,Vistara,BOM,HYD,Evening,76.3,82.7,Security,No,No
+F00087,2026-03-25,Air India,BLR,CCU,Morning,53.2,10.5,Carrier,No,No
+F00088,2025-12-12,IndiGo,DEL,BOM,Afternoon,70.6,11.2,Security,No,No
+F00089,2025-05-21,Air India,BLR,MAA,Afternoon,72.8,0.0,Weather,No,No
+F00090,2025-06-06,Akasa,CCU,BLR,Night,17.6,,None,No,No
+F00091,2026-02-04,Air India,BOM,BLR,Evening,35.6,27.0,Carrier,No,No
+F00092,2025-10-29,Air India,BOM,BLR,Evening,49.1,27.8,Security,No,No
+F00093,2025-02-01,Air India,BLR,BOM,Evening,0.0,0.0,None,Yes,No
+F00094,2025-05-12,Akasa,MAA,BOM,Morning,0.0,118.7,Air Traffic,No,No
+F00095,2025-10-17,Akasa,HYD,DEL,Afternoon,0.0,,Carrier,No,No
+F00096,2025-04-30,SpiceJet,MAA,BLR,Night,18.2,29.6,Carrier,No,No
+F00097,2026-01-06,Air India,DEL,BLR,Evening,10.3,2.0,Security,No,No
+F00098,2025-07-21,Vistara,MAA,BLR,Evening,0.0,16.3,Weather,No,No
+F00099,2025-07-15,Akasa,DEL,MAA,Night,27.2,12.7,Weather,No,No
+F00100,2025-03-14,Air India,BOM,DEL,Evening,18.7,26.9,Security,No,No
+F00101,2025-12-03,SpiceJet,BLR,MAA,Evening,63.4,26.4,Weather,No,No
+F00102,2025-05-07,Air India,BOM,MAA,Morning,92.5,59.2,Carrier,No,No
+F00103,2026-02-26,Akasa,MAA,DEL,Morning,38.0,36.1,Security,No,No
+F00104,2026-09-20,Vistara,MAA,CCU,Morning,0.0,55.2,Carrier,No,No
+F00105,2026-09-03,Akasa,HYD,BOM,Afternoon,44.6,26.6,None,No,No
+F00106,2026-03-23,Vistara,BLR,DEL,Evening,22.3,36.3,None,No,No
+F00107,2026-06-25,SpiceJet,CCU,MAA,Night,13.6,17.3,Weather,No,No
+F00108,2026-09-09,Akasa,CCU,DEL,Afternoon,0.0,67.1,Weather,No,No
+F00109,2026-04-02,IndiGo,BLR,BOM,Evening,5.8,39.9,None,No,No
+F00110,2025-06-21,SpiceJet,CCU,DEL,Night,15.8,20.7,Weather,No,No
+F00111,2025-12-02,Vistara,BOM,DEL,Evening,50.1,19.5,Air Traffic,No,No
+F00112,2026-07-28,Vistara,BOM,DEL,Afternoon,39.9,22.6,None,No,No
+F00113,2026-03-23,SpiceJet,DEL,MAA,Afternoon,85.9,28.2,Air Traffic,No,No
+F00114,2025-08-31,IndiGo,DEL,DEL,Evening,45.6,24.7,Carrier,No,No
+F00115,2025-04-23,Air India,BOM,CCU,Afternoon,36.9,4.6,Weather,No,No
+F00116,2025-04-07,Vistara,HYD,DEL,Morning,11.3,57.6,Carrier,No,No
+F00117,2025-09-10,Akasa,MAA,MAA,Evening,0.0,60.1,Air Traffic,No,No
+F00118,2026-06-23,Air India,HYD,MAA,Evening,2.1,98.4,Weather,No,No
+F00119,2026-01-05,IndiGo,BLR,HYD,Afternoon,0.0,2.9,Air Traffic,Yes,No
+F00120,2025-02-09,SpiceJet,BOM,CCU,Morning,0.0,53.7,Air Traffic,No,No
+F00121,2026-09-07,Vistara,DEL,BOM,Night,0.0,0.0,Carrier,No,No
+F00122,2025-09-28,SpiceJet,HYD,CCU,Afternoon,78.1,60.2,None,No,No
+F00123,2025-09-19,Vistara,DEL,BOM,Evening,34.9,0.0,None,No,No
+F00124,2026-07-03,Akasa,CCU,HYD,Morning,8.8,0.0,Security,No,No
+F00125,2025-09-10,Akasa,BLR,MAA,Afternoon,35.9,40.3,Air Traffic,No,No
+F00126,2026-02-17,Vistara,BLR,CCU,Evening,0.0,2.1,Air Traffic,No,No
+F00127,2026-09-09,Vistara,DEL,BOM,Morning,31.9,0.0,Weather,No,No
+F00128,2025-12-13,IndiGo,BOM,CCU,Afternoon,66.7,7.6,Carrier,No,Yes
+F00129,2026-02-15,Vistara,DEL,MAA,Evening,17.8,56.2,Weather,No,No
+F00130,2025-08-25,Akasa,CCU,MAA,Night,0.0,0.0,Carrier,No,No
+F00131,2026-08-19,Vistara,BLR,CCU,Afternoon,7.5,24.8,Air Traffic,No,No
+F00132,2025-02-20,SpiceJet,CCU,CCU,Morning,66.8,11.9,Security,No,No
+F00133,2025-07-04,Vistara,HYD,CCU,Morning,31.1,59.8,Carrier,No,No
+F00134,2026-10-25,SpiceJet,MAA,CCU,Evening,0.0,60.9,Carrier,No,No
+F00135,2025-11-20,SpiceJet,CCU,DEL,Evening,104.9,0.0,Security,Yes,No
+F00136,2025-04-27,Vistara,DEL,CCU,Evening,0.0,68.8,Weather,No,No
+F00137,2025-10-04,Akasa,DEL,BOM,Afternoon,13.5,2.6,Weather,No,No
+F00138,2025-06-20,Akasa,MAA,HYD,Morning,0.0,36.5,Security,No,No
+F00139,2025-12-18,Air India,BOM,BLR,Morning,0.0,0.0,Air Traffic,No,No
+F00140,2025-06-07,IndiGo,CCU,BOM,Morning,6.2,41.8,None,Yes,No
+F00141,2025-09-25,Akasa,HYD,BOM,Afternoon,44.3,129.1,Security,Yes,No
+F00142,2026-08-31,Vistara,CCU,DEL,Afternoon,67.2,32.1,None,No,No
+F00143,2025-02-25,IndiGo,BOM,BLR,Morning,8.5,8.6,Security,Yes,No
+F00144,2026-05-26,SpiceJet,BOM,BLR,Evening,0.0,17.7,None,No,No
+F00145,2025-02-22,SpiceJet,HYD,BLR,Afternoon,38.8,0.0,Weather,No,No
+F00146,2025-11-02,Air India,DEL,DEL,Night,39.8,85.0,Air Traffic,No,No
+F00147,2026-03-24,Air India,BOM,HYD,Afternoon,30.4,39.5,None,No,No
+F00148,2026-10-02,Akasa,HYD,BOM,Morning,31.7,0.0,Security,No,No
+F00149,2025-06-17,SpiceJet,BOM,MAA,Evening,18.1,0.0,Air Traffic,No,No
+F00150,2025-02-05,IndiGo,BOM,DEL,Evening,25.4,27.6,None,No,No
+F00151,2026-05-18,Akasa,MAA,DEL,Night,15.6,64.3,Carrier,No,No
+F00152,2026-08-21,Air India,BOM,BOM,Evening,59.5,0.0,Weather,No,No
+F00153,2026-01-14,Akasa,MAA,BLR,Afternoon,100.0,71.5,Security,No,No
+F00154,2025-02-10,Air India,MAA,MAA,Evening,28.3,23.3,Air Traffic,No,No
+F00155,2025-12-01,SpiceJet,CCU,HYD,Night,21.8,0.0,Weather,No,No
+F00156,2025-09-19,Akasa,DEL,BLR,Evening,31.0,8.3,Carrier,No,No
+F00157,2025-10-30,SpiceJet,BOM,MAA,Night,0.0,96.9,Weather,No,No
+F00158,2025-02-06,SpiceJet,MAA,BOM,Night,48.8,0.0,None,No,No
+F00159,2025-08-01,IndiGo,DEL,MAA,Night,37.4,0.0,None,No,No
+F00160,2026-10-31,IndiGo,HYD,BLR,Evening,7.3,65.1,None,No,No
+F00161,2025-01-31,IndiGo,HYD,BOM,Afternoon,53.6,35.7,Weather,No,No
+F00162,2026-09-04,Air India,MAA,BOM,Night,22.7,0.0,None,No,No
+F00163,2025-12-13,IndiGo,MAA,DEL,Night,0.0,65.6,Air Traffic,No,No
+F00164,2026-01-27,IndiGo,BOM,CCU,Afternoon,34.3,67.5,Carrier,No,No
+F00165,2026-09-17,SpiceJet,HYD,HYD,Morning,30.3,40.3,Security,No,No
+F00166,2025-05-26,IndiGo,HYD,HYD,Night,55.6,2.5,None,No,No
+F00167,2026-10-21,Air India,MAA,HYD,Morning,51.1,8.7,Air Traffic,No,No
+F00168,2025-07-05,SpiceJet,HYD,DEL,Night,18.2,38.4,Weather,No,No
+F00169,2025-08-22,Vistara,DEL,MAA,Morning,5.5,0.0,None,No,Yes
+F00170,2025-10-28,IndiGo,MAA,HYD,Night,22.1,80.1,Weather,No,No
+F00171,2026-02-07,SpiceJet,HYD,CCU,Evening,34.7,95.0,Weather,No,No
+F00172,2025-08-04,IndiGo,BOM,DEL,Afternoon,38.9,17.6,Security,No,No
+F00173,2026-06-15,SpiceJet,BOM,CCU,Morning,32.5,41.2,Security,No,No
+F00174,2025-01-15,Air India,BOM,CCU,Night,18.8,74.4,Security,No,No
+F00175,2026-03-22,Vistara,CCU,BLR,Morning,56.9,105.2,None,No,No
+F00176,2026-03-16,Vistara,MAA,MAA,Morning,0.0,89.3,None,No,No
+F00177,2025-12-24,IndiGo,BLR,HYD,Night,108.8,0.0,Weather,No,No
+F00178,2026-02-15,SpiceJet,DEL,MAA,Evening,48.7,14.4,Carrier,No,No
+F00179,2026-05-16,IndiGo,MAA,CCU,Morning,0.0,47.0,Security,No,No
+F00180,2026-08-28,SpiceJet,HYD,BOM,Afternoon,28.5,7.2,Carrier,No,No
+F00181,2025-05-27,IndiGo,HYD,MAA,Evening,49.0,98.3,Security,No,No
+F00182,2025-11-16,Vistara,DEL,CCU,Evening,9.8,92.2,Air Traffic,No,No
+F00183,2026-01-12,SpiceJet,MAA,BOM,Afternoon,0.0,0.0,Air Traffic,No,No
+F00184,2025-08-19,Akasa,DEL,CCU,Afternoon,0.0,20.5,Weather,No,No
+F00185,2026-10-14,IndiGo,HYD,BLR,Morning,41.0,0.0,Security,No,No
+F00186,2025-12-09,Vistara,HYD,MAA,Morning,0.0,19.2,None,No,No
+F00187,2026-02-01,Vistara,HYD,BOM,Night,0.0,18.0,None,No,No
+F00188,2025-05-11,Akasa,HYD,BOM,Morning,40.8,65.2,Carrier,No,Yes
+F00189,2025-10-06,Akasa,BLR,BLR,Night,14.2,0.0,Security,No,No
+F00190,2026-02-23,SpiceJet,HYD,BLR,Morning,0.0,0.0,Weather,No,No
+F00191,2025-10-14,Akasa,BLR,HYD,Night,4.7,0.0,Security,No,No
+F00192,2026-05-31,Air India,BLR,BOM,Afternoon,0.0,0.0,Air Traffic,No,No
+F00193,2025-04-02,SpiceJet,CCU,CCU,Night,39.0,0.8,None,No,No
+F00194,2025-04-13,Akasa,CCU,DEL,Night,0.0,34.5,Security,No,No
+F00195,2025-08-15,SpiceJet,DEL,BOM,Afternoon,3.2,0.0,Weather,No,No
+F00196,2025-08-01,Vistara,MAA,HYD,Evening,34.1,0.0,None,No,No
+F00197,2026-06-30,Akasa,DEL,BOM,Afternoon,13.0,0.0,Security,No,No
+F00198,2026-08-04,SpiceJet,BOM,BLR,Night,0.0,0.0,Carrier,No,No
+F00199,2025-11-12,Akasa,BLR,HYD,Night,0.0,4.8,Carrier,No,No
+F00200,2025-12-05,Air India,BOM,BOM,Night,34.9,3.1,Weather,No,No
+F00201,2025-07-16,SpiceJet,BLR,MAA,Evening,24.8,54.6,Carrier,No,No
+F00202,2025-12-22,Vistara,BOM,MAA,Afternoon,3.9,0.0,None,No,No
+F00203,2026-04-18,Akasa,BLR,MAA,Morning,0.0,12.7,None,No,No
+F00204,2026-04-29,Akasa,CCU,BLR,Evening,22.4,5.2,Air Traffic,No,No
+F00205,2026-10-11,Akasa,CCU,BLR,Morning,38.8,59.4,Carrier,No,No
+F00206,2026-01-22,IndiGo,BLR,MAA,Evening,25.4,20.8,Carrier,No,No
+F00207,2025-08-16,Vistara,BOM,CCU,Night,79.3,69.0,None,No,No
+F00208,2025-02-16,Air India,CCU,CCU,Morning,46.7,0.0,Weather,No,No
+F00209,2026-04-06,Akasa,DEL,BOM,Night,18.2,25.0,Security,No,No
+F00210,2026-06-22,IndiGo,BLR,MAA,Evening,47.8,4.0,None,No,No
+F00211,2026-01-05,SpiceJet,BOM,HYD,Morning,23.7,,None,No,No
+F00212,2026-09-10,Vistara,HYD,CCU,Evening,23.6,24.3,Security,No,No
+F00213,2025-08-01,Akasa,DEL,CCU,Morning,67.4,96.3,None,No,No
+F00214,2025-02-05,Akasa,CCU,DEL,Evening,0.0,0.0,Carrier,No,No
+F00215,2026-02-28,SpiceJet,BOM,DEL,Evening,22.8,21.9,None,No,No
+F00216,2025-03-23,SpiceJet,HYD,DEL,Evening,63.6,0.0,Weather,No,No
+F00217,2025-02-26,Air India,HYD,HYD,Afternoon,32.8,0.0,Weather,No,No
+F00218,2026-04-15,Akasa,BLR,MAA,Morning,9.1,0.0,Weather,No,No
+F00219,2025-10-18,Air India,BLR,DEL,Afternoon,0.0,9.0,Security,No,No
+F00220,2026-02-09,Vistara,BOM,DEL,Night,0.0,10.8,Carrier,No,No
+F00221,2026-05-16,IndiGo,CCU,BLR,Night,94.7,18.0,Security,No,No
+F00222,2025-09-13,IndiGo,HYD,BLR,Morning,32.8,0.0,Weather,No,No
+F00223,2026-02-13,Akasa,BOM,DEL,Afternoon,1.6,2.0,Security,No,No
+F00224,2025-12-27,IndiGo,BOM,HYD,Night,34.2,47.1,Carrier,No,No
+F00225,2026-01-24,Vistara,BLR,MAA,Afternoon,0.0,0.0,Air Traffic,No,No
+F00226,2026-04-16,IndiGo,MAA,BOM,Morning,10.4,12.8,Weather,No,No
+F00227,2025-09-12,Akasa,MAA,DEL,Night,0.0,38.7,None,No,No
+F00228,2025-12-04,SpiceJet,BLR,BOM,Afternoon,0.0,0.0,Carrier,No,No
+F00229,2026-01-31,Vistara,BLR,BOM,Evening,0.0,40.7,Security,No,No
+F00230,2025-04-04,Air India,DEL,BLR,Afternoon,0.0,0.0,Air Traffic,No,No
+F00231,2025-05-22,Air India,HYD,DEL,Evening,57.7,62.5,Air Traffic,No,No
+F00232,2025-03-01,IndiGo,BOM,BLR,Afternoon,0.0,41.6,Air Traffic,No,No
+F00233,2025-05-13,Vistara,CCU,DEL,Evening,40.7,29.2,Weather,No,No
+F00234,2025-10-21,Akasa,HYD,CCU,Afternoon,55.5,72.0,None,No,No
+F00235,2026-09-20,Air India,BOM,BLR,Evening,22.6,13.8,Security,No,No
+F00236,2026-09-10,Vistara,MAA,DEL,Morning,11.6,2.3,Carrier,No,No
+F00237,2026-05-26,IndiGo,CCU,DEL,Morning,26.7,81.9,Weather,No,No
+F00238,2026-01-09,Air India,BOM,BLR,Evening,7.4,100.6,None,No,No
+F00239,2025-05-16,SpiceJet,DEL,HYD,Morning,64.1,,Carrier,No,No
+F00240,2025-08-28,SpiceJet,BOM,BOM,Night,87.7,22.5,None,No,No
+F00241,2026-05-28,Akasa,BLR,BOM,Night,72.7,68.8,Security,No,No
+F00242,2026-08-31,Vistara,BLR,HYD,Afternoon,0.0,23.9,None,No,No
+F00243,2026-10-06,IndiGo,CCU,BLR,Afternoon,6.7,50.8,Security,No,No
+F00244,2025-09-17,Akasa,MAA,DEL,Evening,22.1,58.2,Weather,No,No
+F00245,2025-11-22,IndiGo,CCU,BLR,Morning,38.2,4.5,Weather,No,No
+F00246,2025-12-07,SpiceJet,MAA,BOM,Night,0.0,43.8,Carrier,No,No
+F00247,2025-02-07,Akasa,DEL,MAA,Morning,0.0,26.8,Air Traffic,No,No
+F00248,2025-03-19,Air India,DEL,CCU,Afternoon,67.7,0.0,Security,No,No
+F00249,2025-01-31,Akasa,MAA,BOM,Morning,2.4,0.0,None,No,No
+F00250,2026-05-09,IndiGo,HYD,BOM,Night,0.0,0.9,Weather,No,No
+F00251,2025-05-31,Vistara,BOM,DEL,Morning,0.0,64.1,Security,No,No
+F00252,2026-04-14,IndiGo,CCU,CCU,Afternoon,35.7,65.5,Weather,No,No
+F00253,2025-09-09,Air India,BOM,MAA,Night,0.0,57.0,Air Traffic,No,No
+F00254,2026-06-16,SpiceJet,CCU,BOM,Afternoon,30.5,44.6,Weather,No,No
+F00255,2025-03-19,Vistara,MAA,HYD,Morning,0.0,43.5,Carrier,No,No
+F00256,2025-08-06,Vistara,BLR,BOM,Morning,0.0,38.1,Security,No,No
+F00257,2025-05-18,Vistara,HYD,MAA,Evening,71.9,43.3,Security,No,No
+F00258,2025-10-19,SpiceJet,CCU,BOM,Morning,35.9,46.0,None,No,No
+F00259,2026-01-11,Akasa,MAA,DEL,Afternoon,10.3,0.0,Air Traffic,No,No
+F00260,2025-04-23,Vistara,HYD,MAA,Evening,3.8,0.0,Carrier,No,No
+F00261,2026-03-23,Air India,BOM,MAA,Afternoon,73.3,0.0,None,No,No
+F00262,2026-10-08,IndiGo,BOM,BLR,Night,42.7,71.3,None,No,No
+F00263,2025-01-29,Vistara,BLR,MAA,Evening,62.1,93.2,None,No,No
+F00264,2025-02-27,Air India,DEL,BOM,Morning,1.6,0.0,Security,No,No
+F00265,2026-09-30,IndiGo,CCU,BOM,Night,23.8,89.6,Security,No,No
+F00266,2026-03-11,IndiGo,BLR,HYD,Night,36.1,30.5,Weather,No,No
+F00267,2026-09-08,Akasa,CCU,HYD,Morning,2.7,67.5,Air Traffic,No,No
+F00268,2026-04-17,Vistara,DEL,BLR,Afternoon,18.7,47.3,Air Traffic,No,No
+F00269,2026-04-25,Akasa,BOM,CCU,Afternoon,1.6,84.6,Carrier,No,No
+F00270,2025-04-16,Vistara,BLR,CCU,Afternoon,36.0,35.4,Weather,No,No
+F00271,2025-12-09,Vistara,DEL,DEL,Afternoon,0.0,0.0,Carrier,No,No
+F00272,2025-09-02,Akasa,CCU,MAA,Night,42.0,22.8,None,No,No
+F00273,2026-07-12,SpiceJet,HYD,DEL,Evening,32.9,47.6,None,No,No
+F00274,2025-01-29,IndiGo,MAA,HYD,Night,14.9,18.4,Security,No,No
+F00275,2025-01-13,IndiGo,CCU,BLR,Afternoon,37.7,53.3,Weather,No,No
+F00276,2026-01-08,SpiceJet,DEL,BLR,Evening,9.2,24.4,Security,No,No
+F00277,2026-10-12,Air India,MAA,DEL,Morning,0.0,,Weather,No,No
+F00278,2026-10-28,Air India,DEL,BLR,Afternoon,41.0,0.0,Security,No,No
+F00279,2026-02-02,Air India,MAA,DEL,Evening,42.5,11.3,Weather,No,No
+F00280,2025-10-15,SpiceJet,CCU,MAA,Morning,4.2,35.2,Carrier,No,No
+F00281,2025-07-02,Vistara,CCU,DEL,Night,1.2,0.0,Weather,No,No
+F00282,2026-10-25,Air India,BLR,BLR,Afternoon,15.6,0.0,None,No,No
+F00283,2025-05-03,SpiceJet,DEL,BOM,Morning,2.7,0.0,Air Traffic,No,No
+F00284,2025-03-26,SpiceJet,DEL,BOM,Night,75.4,2.3,None,No,No
+F00285,2025-12-07,SpiceJet,DEL,BLR,Morning,33.1,74.9,Weather,No,No
+F00286,2025-09-20,Air India,CCU,MAA,Afternoon,22.5,0.0,Security,No,No
+F00287,2025-11-28,Akasa,HYD,BLR,Morning,0.0,55.1,Air Traffic,No,No
+F00288,2026-08-27,Air India,BOM,MAA,Evening,47.9,141.0,Air Traffic,No,No
+F00289,2025-06-30,Vistara,DEL,CCU,Night,0.6,85.1,None,No,No
+F00290,2026-08-10,Vistara,DEL,BLR,Morning,0.0,32.3,Weather,No,No
+F00291,2025-05-22,IndiGo,BOM,MAA,Afternoon,49.0,61.3,None,No,No
+F00292,2025-08-05,IndiGo,CCU,BLR,Afternoon,35.6,0.0,Weather,No,No
+F00293,2025-01-03,Air India,MAA,HYD,Evening,0.0,0.0,Carrier,Yes,No
+F00294,2026-03-30,Vistara,HYD,CCU,Afternoon,16.5,28.1,Weather,No,No
+F00295,2026-07-29,SpiceJet,MAA,HYD,Evening,26.4,42.9,Air Traffic,No,No
+F00296,2026-08-16,IndiGo,BLR,CCU,Evening,10.1,70.8,Air Traffic,No,No
+F00297,2025-04-23,Vistara,BOM,DEL,Morning,27.6,4.2,Security,No,No
+F00298,2026-05-29,Akasa,CCU,BLR,Evening,0.0,34.7,Security,Yes,No
+F00299,2025-04-05,IndiGo,DEL,HYD,Evening,0.0,33.4,Security,No,No
+F00300,2026-02-25,IndiGo,MAA,BOM,Night,0.0,21.7,None,No,No
+F00301,2026-04-15,Air India,CCU,MAA,Evening,31.9,24.1,Air Traffic,No,Yes
+F00302,2025-04-13,Vistara,DEL,BOM,Night,0.0,,Weather,No,No
+F00303,2025-03-15,IndiGo,BOM,BOM,Afternoon,0.0,38.2,Weather,No,No
+F00304,2025-02-18,Akasa,HYD,BOM,Evening,0.0,34.8,Carrier,No,No
+F00305,2026-04-19,IndiGo,CCU,CCU,Night,13.5,,Security,No,No
+F00306,2026-02-16,SpiceJet,BOM,DEL,Morning,90.5,53.6,Weather,No,No
+F00307,2025-03-21,Air India,CCU,DEL,Evening,14.4,68.1,None,No,No
+F00308,2025-12-01,IndiGo,BLR,CCU,Night,18.2,54.1,None,No,No
+F00309,2026-06-17,Air India,CCU,BOM,Evening,51.4,0.0,Weather,No,No
+F00310,2025-06-09,Vistara,BLR,DEL,Night,22.7,,Security,No,No
+F00311,2026-02-10,Air India,BLR,BOM,Afternoon,14.5,0.0,Air Traffic,No,No
+F00312,2025-07-15,Air India,BLR,BLR,Night,54.4,30.9,Air Traffic,No,No
+F00313,2025-06-24,Vistara,DEL,DEL,Evening,38.5,0.0,Security,No,No
+F00314,2025-09-20,Vistara,BOM,MAA,Afternoon,32.1,78.1,Air Traffic,No,No
+F00315,2025-08-24,IndiGo,BOM,DEL,Morning,17.1,58.3,Carrier,No,No
+F00316,2025-11-28,Vistara,CCU,BLR,Morning,9.9,73.1,Air Traffic,No,No
+F00317,2025-05-18,Vistara,BLR,BOM,Afternoon,54.1,69.1,Weather,No,No
+F00318,2025-09-19,SpiceJet,BLR,BOM,Night,10.2,16.2,Carrier,No,No
+F00319,2026-02-21,Vistara,MAA,DEL,Afternoon,65.1,10.0,None,No,No
+F00320,2025-09-17,Akasa,MAA,MAA,Afternoon,0.0,96.7,Weather,No,No
+F00321,2026-03-16,IndiGo,BOM,MAA,Afternoon,72.2,20.4,Air Traffic,No,No
+F00322,2025-03-19,Air India,BLR,DEL,Afternoon,38.5,,Carrier,No,No
+F00323,2025-04-03,Vistara,BLR,BOM,Night,0.0,67.3,Air Traffic,No,No
+F00324,2026-08-03,Air India,MAA,MAA,Afternoon,39.8,32.8,Carrier,No,No
+F00325,2025-11-05,SpiceJet,CCU,BLR,Afternoon,0.0,87.2,Air Traffic,No,No
+F00326,2026-02-12,IndiGo,HYD,DEL,Evening,23.2,36.7,Air Traffic,No,No
+F00327,2026-05-10,IndiGo,BOM,DEL,Evening,5.0,26.2,Security,No,No
+F00328,2025-04-08,Vistara,BLR,BLR,Afternoon,17.3,88.0,Carrier,No,No
+F00329,2026-10-13,Air India,DEL,HYD,Morning,55.0,0.0,Air Traffic,No,No
+F00330,2025-10-11,IndiGo,CCU,HYD,Evening,40.1,3.6,Security,No,No
+F00331,2026-08-19,Akasa,MAA,DEL,Evening,0.0,0.0,Security,No,No
+F00332,2025-10-06,SpiceJet,CCU,BLR,Evening,0.0,0.0,Air Traffic,No,No
+F00333,2025-09-29,Vistara,BOM,BOM,Evening,31.5,61.9,Carrier,No,No
+F00334,2026-02-06,Vistara,BLR,HYD,Evening,34.0,4.7,Air Traffic,No,No
+F00335,2025-05-08,Vistara,MAA,BOM,Night,0.0,63.2,Air Traffic,Yes,No
+F00336,2026-02-12,Akasa,BLR,BOM,Morning,77.7,42.6,None,No,No
+F00337,2026-10-20,Akasa,MAA,CCU,Morning,50.5,51.3,Carrier,No,No
+F00338,2026-03-08,Vistara,HYD,HYD,Night,0.1,8.8,Carrier,Yes,No
+F00339,2025-02-16,Akasa,BLR,BLR,Night,0.0,0.0,Security,No,No
+F00340,2026-04-12,Air India,HYD,DEL,Afternoon,14.0,30.6,Security,No,No
+F00341,2025-01-23,IndiGo,BOM,DEL,Evening,10.4,63.8,Air Traffic,No,No
+F00342,2025-03-11,IndiGo,BLR,CCU,Afternoon,66.0,25.0,Weather,No,No
+F00343,2025-07-10,SpiceJet,BOM,MAA,Night,56.5,0.0,Security,No,No
+F00344,2025-07-23,SpiceJet,CCU,HYD,Afternoon,23.2,0.0,Security,No,No
+F00345,2025-01-03,Vistara,HYD,DEL,Night,45.7,35.2,None,No,No
+F00346,2025-01-12,IndiGo,BLR,BLR,Afternoon,50.8,4.8,Air Traffic,No,No
+F00347,2026-06-12,Vistara,CCU,BOM,Afternoon,24.0,24.1,Air Traffic,No,No
+F00348,2025-11-01,IndiGo,BLR,DEL,Evening,36.1,17.4,Carrier,No,No
+F00349,2025-05-14,Vistara,MAA,DEL,Afternoon,42.8,9.2,Air Traffic,No,No
+F00350,2025-10-15,IndiGo,HYD,BLR,Morning,39.1,38.8,Weather,No,No
+F00351,2026-04-09,Akasa,MAA,BLR,Morning,0.0,49.2,Air Traffic,No,No
+F00352,2026-05-07,SpiceJet,MAA,HYD,Night,0.0,105.6,Security,No,No
+F00353,2025-07-12,Air India,BOM,CCU,Afternoon,11.9,57.3,Security,No,No
+F00354,2025-04-22,Akasa,BOM,BOM,Morning,0.0,90.7,Security,No,No
+F00355,2026-10-04,SpiceJet,MAA,BOM,Night,0.0,0.0,None,No,No
+F00356,2026-02-27,IndiGo,BOM,CCU,Night,45.7,0.0,Security,No,No
+F00357,2026-10-20,Vistara,CCU,BOM,Afternoon,34.1,26.4,Security,No,No
+F00358,2025-07-25,Air India,BOM,DEL,Evening,0.0,61.3,Air Traffic,No,No
+F00359,2025-03-16,Air India,MAA,MAA,Night,13.6,55.0,Security,No,No
+F00360,2025-09-13,Vistara,CCU,BOM,Morning,15.5,75.5,Security,No,No
+F00361,2025-08-08,SpiceJet,HYD,DEL,Afternoon,28.4,0.0,Air Traffic,No,No
+F00362,2026-04-27,IndiGo,BLR,CCU,Evening,0.0,77.1,Air Traffic,No,No
+F00363,2026-04-25,IndiGo,HYD,HYD,Evening,0.0,40.4,Security,No,No
+F00364,2025-02-17,Akasa,BLR,DEL,Afternoon,40.2,0.0,Carrier,No,No
+F00365,2026-01-29,Akasa,BLR,MAA,Morning,0.0,55.9,Carrier,No,No
+F00366,2025-08-18,Vistara,BOM,BOM,Night,13.9,33.8,Air Traffic,No,No
+F00367,2026-02-16,Air India,DEL,CCU,Evening,10.6,42.2,Security,No,No
+F00368,2025-09-19,SpiceJet,MAA,HYD,Night,17.7,67.0,Air Traffic,No,No
+F00369,2025-12-26,SpiceJet,CCU,CCU,Afternoon,30.8,44.2,Weather,Yes,No
+F00370,2026-04-24,Akasa,BLR,CCU,Evening,77.9,0.0,None,No,No
+F00371,2025-07-16,Akasa,CCU,CCU,Afternoon,0.0,21.3,Air Traffic,No,No
+F00372,2025-05-14,SpiceJet,HYD,DEL,Afternoon,52.7,0.0,Air Traffic,No,No
+F00373,2026-04-18,Air India,HYD,MAA,Evening,0.0,53.0,None,No,No
+F00374,2026-09-26,IndiGo,DEL,DEL,Night,70.8,82.9,Air Traffic,No,No
+F00375,2025-10-25,SpiceJet,HYD,BOM,Night,0.0,0.0,Weather,No,No
+F00376,2026-10-30,SpiceJet,DEL,BLR,Evening,107.3,0.1,None,No,No
+F00377,2025-05-04,Vistara,CCU,BOM,Morning,8.4,0.0,Carrier,No,No
+F00378,2026-07-02,Vistara,DEL,HYD,Evening,67.2,8.8,None,No,No
+F00379,2026-10-24,SpiceJet,HYD,DEL,Night,59.9,43.5,Air Traffic,No,No
+F00380,2025-07-20,Vistara,BLR,BLR,Afternoon,6.7,9.3,Carrier,No,No
+F00381,2025-04-09,Air India,DEL,BLR,Evening,9.4,53.1,Carrier,No,No
+F00382,2026-03-21,Akasa,BLR,HYD,Afternoon,0.0,69.6,None,No,No
+F00383,2026-08-05,IndiGo,BOM,HYD,Morning,49.6,71.1,None,No,No
+F00384,2025-02-25,IndiGo,BOM,CCU,Evening,7.2,0.0,Weather,No,No
+F00385,2026-03-05,Air India,MAA,DEL,Afternoon,0.0,82.4,None,No,No
+F00386,2026-08-06,Vistara,BLR,MAA,Evening,40.8,85.6,None,No,No
+F00387,2025-01-22,Akasa,BLR,BLR,Evening,0.0,89.1,Security,No,No
+F00388,2025-12-12,Air India,DEL,BLR,Night,10.5,20.7,Weather,No,No
+F00389,2025-02-21,IndiGo,BOM,HYD,Night,25.7,0.0,Air Traffic,No,No
+F00390,2025-04-29,Air India,BLR,DEL,Evening,0.0,0.0,Air Traffic,No,No
+F00391,2025-11-22,Air India,CCU,CCU,Morning,4.8,0.0,Weather,No,No
+F00392,2025-08-08,SpiceJet,DEL,BOM,Evening,75.7,27.5,None,No,No
+F00393,2025-02-26,IndiGo,MAA,MAA,Night,14.9,60.9,Security,No,No
+F00394,2026-06-20,SpiceJet,DEL,DEL,Afternoon,9.4,79.3,Weather,No,No
+F00395,2025-05-16,Vistara,HYD,MAA,Evening,15.9,7.6,Carrier,No,No
+F00396,2026-08-06,SpiceJet,DEL,BLR,Night,37.9,25.5,None,No,No
+F00397,2025-04-29,Air India,CCU,HYD,Afternoon,0.0,22.8,Air Traffic,No,No
+F00398,2025-12-14,IndiGo,CCU,MAA,Afternoon,37.0,1.6,Air Traffic,No,No
+F00399,2026-05-02,Vistara,MAA,DEL,Afternoon,31.0,56.4,Weather,No,No
+F00400,2025-11-18,Air India,MAA,BLR,Night,0.0,41.5,Weather,No,No
+F00401,2025-10-07,Vistara,MAA,MAA,Afternoon,84.8,32.7,None,No,No
+F00402,2026-05-18,Vistara,HYD,DEL,Afternoon,73.1,41.3,None,No,No
+F00403,2025-01-08,Vistara,MAA,DEL,Evening,0.0,51.6,Weather,No,No
+F00404,2026-07-07,Vistara,DEL,HYD,Evening,0.0,51.2,Air Traffic,No,No
+F00405,2026-04-07,SpiceJet,HYD,DEL,Night,30.0,0.0,Security,No,No
+F00406,2026-05-27,SpiceJet,MAA,MAA,Night,0.0,62.9,None,No,No
+F00407,2025-10-09,Air India,BLR,MAA,Night,69.7,37.2,Air Traffic,No,No
+F00408,2025-09-15,SpiceJet,MAA,BOM,Night,5.6,9.6,None,No,No
+F00409,2026-01-18,Akasa,HYD,BOM,Afternoon,78.8,36.4,Weather,No,No
+F00410,2026-03-06,Akasa,BLR,CCU,Afternoon,0.0,40.8,Weather,No,No
+F00411,2026-09-11,IndiGo,BOM,HYD,Evening,18.1,70.3,Air Traffic,No,No
+F00412,2026-07-28,SpiceJet,DEL,CCU,Evening,66.4,0.0,Carrier,Yes,No
+F00413,2025-02-06,Akasa,MAA,MAA,Evening,10.7,80.0,Security,No,No
+F00414,2025-04-12,IndiGo,CCU,BLR,Morning,31.5,27.9,Carrier,No,No
+F00415,2026-09-26,Akasa,BLR,BOM,Morning,60.2,6.8,Air Traffic,No,No
+F00416,2025-09-17,SpiceJet,MAA,HYD,Morning,2.5,5.5,Air Traffic,No,No
+F00417,2026-01-24,SpiceJet,BOM,HYD,Afternoon,0.0,0.0,None,No,No
+F00418,2025-02-07,SpiceJet,CCU,BLR,Night,0.0,0.0,Weather,No,No
+F00419,2025-03-11,SpiceJet,BLR,BOM,Night,42.4,54.1,Air Traffic,No,No
+F00420,2025-10-01,Akasa,HYD,BOM,Night,35.6,106.2,Carrier,No,No
+F00421,2026-04-25,Akasa,DEL,HYD,Evening,59.2,0.0,Weather,No,No
+F00422,2026-06-01,Vistara,HYD,BLR,Morning,12.4,0.0,None,No,No
+F00423,2026-08-22,Vistara,CCU,BLR,Night,0.0,57.1,None,No,No
+F00424,2025-05-12,SpiceJet,MAA,DEL,Night,0.0,25.2,Weather,No,No
+F00425,2025-05-16,Akasa,BLR,MAA,Night,122.4,60.4,Security,No,No
+F00426,2025-12-29,IndiGo,DEL,CCU,Afternoon,40.4,22.9,Security,No,No
+F00427,2026-01-01,IndiGo,DEL,MAA,Morning,26.8,3.8,Security,No,No
+F00428,2025-01-25,SpiceJet,DEL,CCU,Night,31.8,,Air Traffic,No,No
+F00429,2025-10-27,Akasa,BOM,HYD,Morning,0.0,0.0,Carrier,Yes,No
+F00430,2026-08-24,Akasa,CCU,BOM,Night,0.0,0.0,Weather,No,No
+F00431,2025-04-20,Air India,BOM,HYD,Night,83.0,64.9,Weather,No,No
+F00432,2026-07-03,Akasa,DEL,HYD,Night,45.0,74.7,Weather,No,No
+F00433,2025-10-27,SpiceJet,DEL,MAA,Evening,0.0,83.2,Air Traffic,No,No
+F00434,2025-12-17,Air India,BLR,BOM,Night,0.0,44.6,Weather,No,No
+F00435,2026-03-06,Air India,HYD,DEL,Night,4.0,0.0,Security,No,No
+F00436,2026-04-18,IndiGo,BOM,DEL,Night,11.0,1.6,Security,No,No
+F00437,2026-03-03,Akasa,BLR,BOM,Afternoon,93.7,80.0,Carrier,No,No
+F00438,2025-03-11,SpiceJet,BOM,HYD,Evening,15.4,91.9,Weather,No,No
+F00439,2025-07-17,Vistara,CCU,DEL,Night,0.0,81.5,Air Traffic,No,No
+F00440,2026-07-20,SpiceJet,DEL,DEL,Morning,19.9,17.5,None,No,No
+F00441,2025-01-27,Vistara,BOM,BLR,Morning,31.3,,Carrier,No,No
+F00442,2026-04-24,Akasa,HYD,CCU,Afternoon,0.0,25.4,None,No,No
+F00443,2025-12-15,Air India,MAA,BLR,Afternoon,36.1,27.6,Carrier,No,No
+F00444,2025-03-22,IndiGo,BLR,BOM,Night,64.3,89.6,Weather,No,No
+F00445,2025-03-24,IndiGo,DEL,BOM,Night,26.9,36.1,Security,No,No
+F00446,2026-10-19,Akasa,HYD,CCU,Morning,0.0,27.7,None,No,No
+F00447,2025-01-21,Vistara,BOM,BLR,Afternoon,3.5,29.9,None,No,No
+F00448,2025-01-16,SpiceJet,BOM,BLR,Night,0.0,43.0,None,No,No
+F00449,2025-01-12,Akasa,MAA,CCU,Evening,17.3,52.1,Weather,No,No
+F00450,2026-02-25,Air India,MAA,BLR,Morning,32.9,0.0,Weather,No,No
+F00451,2026-09-12,Akasa,BOM,BLR,Evening,0.0,0.0,Air Traffic,No,No
+F00452,2025-04-25,Air India,HYD,CCU,Night,89.9,81.8,None,No,No
+F00453,2026-06-17,SpiceJet,HYD,BOM,Afternoon,49.7,0.0,None,No,No
+F00454,2026-04-27,SpiceJet,MAA,HYD,Afternoon,0.0,92.5,Carrier,No,No
+F00455,2025-06-03,Akasa,MAA,HYD,Evening,0.0,0.0,Carrier,No,No
+F00456,2025-02-17,Air India,BLR,BOM,Night,0.0,3.6,Security,No,No
+F00457,2025-11-23,Akasa,DEL,DEL,Evening,77.1,65.9,None,No,No
+F00458,2025-02-24,SpiceJet,DEL,MAA,Night,53.2,27.0,Weather,No,No
+F00459,2025-03-17,Air India,DEL,BOM,Night,78.8,0.0,None,No,No
+F00460,2025-11-08,Vistara,CCU,BLR,Afternoon,22.4,44.1,None,No,No
+F00461,2026-06-30,Akasa,CCU,HYD,Afternoon,14.7,29.7,Weather,No,No
+F00462,2026-10-27,Vistara,CCU,DEL,Evening,0.0,18.4,None,No,No
+F00463,2026-02-25,IndiGo,DEL,DEL,Morning,34.2,2.0,Security,No,No
+F00464,2025-07-04,IndiGo,DEL,BLR,Morning,15.1,25.6,None,No,No
+F00465,2025-08-08,Vistara,BOM,MAA,Morning,13.8,3.7,Carrier,No,No
+F00466,2026-02-14,Akasa,HYD,HYD,Night,78.6,124.4,None,No,No
+F00467,2025-04-26,SpiceJet,DEL,HYD,Night,17.6,17.4,Weather,No,No
+F00468,2025-12-13,SpiceJet,HYD,HYD,Night,68.6,12.0,Weather,No,No
+F00469,2026-05-30,SpiceJet,MAA,MAA,Morning,0.0,5.3,Air Traffic,No,No
+F00470,2026-07-18,SpiceJet,DEL,MAA,Afternoon,116.1,98.1,Security,No,No
+F00471,2025-02-09,Vistara,CCU,DEL,Afternoon,8.9,0.0,Weather,No,No
+F00472,2025-07-13,SpiceJet,HYD,HYD,Morning,46.8,41.4,Carrier,No,No
+F00473,2025-06-20,IndiGo,MAA,HYD,Afternoon,52.3,17.4,Carrier,No,Yes
+F00474,2026-01-07,Vistara,BOM,BOM,Afternoon,4.6,0.0,Weather,No,No
+F00475,2025-05-04,IndiGo,BOM,MAA,Night,50.7,0.0,Weather,No,No
+F00476,2026-09-28,Akasa,DEL,BOM,Morning,52.5,39.7,Weather,No,No
+F00477,2026-09-06,SpiceJet,CCU,MAA,Night,0.0,0.0,None,No,No
+F00478,2025-08-11,Vistara,MAA,DEL,Night,0.0,37.4,None,No,No
+F00479,2025-09-30,Vistara,DEL,HYD,Morning,23.6,96.2,Security,Yes,No
+F00480,2025-10-21,Vistara,BLR,CCU,Afternoon,18.0,33.8,Security,No,No
+F00481,2025-01-29,SpiceJet,CCU,HYD,Afternoon,70.8,0.0,Weather,No,No
+F00482,2026-08-18,IndiGo,CCU,DEL,Night,46.6,0.0,Weather,No,No
+F00483,2026-06-06,Akasa,MAA,DEL,Night,19.5,15.6,Carrier,No,No
+F00484,2025-08-11,IndiGo,CCU,HYD,Night,43.2,12.9,None,No,No
+F00485,2026-01-02,Air India,MAA,MAA,Afternoon,0.0,33.1,Air Traffic,No,No
+F00486,2025-09-12,SpiceJet,MAA,HYD,Night,0.5,39.5,None,No,No
+F00487,2025-06-02,SpiceJet,MAA,DEL,Night,32.1,96.2,Carrier,No,No
+F00488,2025-07-23,IndiGo,BLR,CCU,Evening,61.0,26.9,Carrier,No,No
+F00489,2025-03-13,SpiceJet,BLR,BLR,Morning,29.0,0.0,None,No,No
+F00490,2026-06-26,SpiceJet,BLR,DEL,Afternoon,73.0,73.2,Air Traffic,No,No
+F00491,2026-03-15,SpiceJet,MAA,BLR,Morning,52.4,77.5,Security,No,No
+F00492,2026-09-15,Akasa,BOM,BOM,Night,4.9,36.3,Security,No,No
+F00493,2025-01-05,Akasa,CCU,MAA,Afternoon,17.1,17.1,Security,No,No
+F00494,2026-02-27,Vistara,HYD,MAA,Evening,36.3,51.9,Security,No,Yes
+F00495,2026-01-10,IndiGo,DEL,DEL,Afternoon,6.3,18.6,None,No,No
+F00496,2026-02-22,Air India,BLR,HYD,Night,75.6,0.0,Air Traffic,No,No
+F00497,2026-10-25,Vistara,BOM,DEL,Night,0.0,49.5,Carrier,No,No
+F00498,2025-09-18,SpiceJet,CCU,BLR,Afternoon,33.1,62.7,Air Traffic,No,No
+F00499,2025-04-05,SpiceJet,BLR,DEL,Afternoon,47.7,84.6,Carrier,No,No
+F00500,2025-01-09,Air India,BLR,CCU,Morning,11.0,0.0,Weather,No,No
+F00501,2025-11-26,SpiceJet,DEL,DEL,Morning,3.1,36.0,Carrier,No,No
+F00502,2025-04-27,SpiceJet,DEL,MAA,Night,19.3,36.9,Air Traffic,No,No
+F00503,2025-04-05,SpiceJet,CCU,BOM,Night,50.4,30.4,Air Traffic,No,No
+F00504,2025-04-09,Vistara,MAA,BOM,Night,4.5,31.6,Carrier,No,No
+F00505,2025-07-05,Air India,BOM,MAA,Evening,0.0,28.5,Security,No,No
+F00506,2025-03-19,Vistara,CCU,MAA,Morning,62.3,35.5,Carrier,Yes,No
+F00507,2025-11-22,SpiceJet,HYD,DEL,Morning,36.0,56.6,Security,No,No
+F00508,2026-03-14,Vistara,BLR,DEL,Evening,57.3,75.8,Carrier,No,No
+F00509,2025-07-13,Vistara,BLR,MAA,Afternoon,48.6,0.0,None,No,No
+F00510,2025-04-02,Vistara,CCU,MAA,Morning,98.3,20.1,Security,No,No
+F00511,2026-01-18,Vistara,MAA,BLR,Morning,61.0,,Air Traffic,No,No
+F00512,2025-02-27,IndiGo,BLR,DEL,Evening,0.0,4.4,Air Traffic,No,No
+F00513,2026-05-09,SpiceJet,BLR,DEL,Night,38.5,0.0,Security,No,No
+F00514,2025-09-13,IndiGo,CCU,BOM,Afternoon,2.5,28.0,Air Traffic,No,No
+F00515,2025-10-02,Vistara,HYD,CCU,Night,6.1,46.2,None,No,No
+F00516,2025-06-16,Vistara,BLR,DEL,Afternoon,0.0,20.8,Weather,No,Yes
+F00517,2025-07-09,SpiceJet,BLR,HYD,Evening,12.0,26.6,None,No,No
+F00518,2025-04-08,Akasa,HYD,CCU,Morning,41.1,43.7,None,No,No
+F00519,2026-01-09,SpiceJet,DEL,DEL,Evening,19.7,83.4,Carrier,No,No
+F00520,2025-04-08,Air India,DEL,MAA,Afternoon,0.0,10.2,Carrier,No,No
+F00521,2026-04-01,SpiceJet,HYD,MAA,Night,0.0,0.0,None,No,No
+F00522,2025-06-21,IndiGo,BOM,BOM,Afternoon,95.9,23.4,Air Traffic,No,No
+F00523,2026-01-14,Air India,HYD,DEL,Morning,33.4,102.3,Security,No,No
+F00524,2025-12-26,Air India,CCU,BOM,Morning,0.0,0.0,Weather,No,No
+F00525,2026-02-28,Akasa,BOM,BOM,Afternoon,38.2,53.0,Air Traffic,No,No
+F00526,2026-05-23,Vistara,BLR,BOM,Afternoon,98.6,73.3,Security,Yes,No
+F00527,2026-01-11,IndiGo,MAA,MAA,Afternoon,43.7,0.0,None,No,No
+F00528,2026-07-25,Air India,DEL,DEL,Evening,0.0,43.4,Air Traffic,No,No
+F00529,2025-06-23,SpiceJet,CCU,BOM,Night,114.8,51.1,Weather,No,No
+F00530,2026-05-18,SpiceJet,BOM,CCU,Evening,0.0,16.3,Air Traffic,No,No
+F00531,2025-08-18,IndiGo,MAA,DEL,Afternoon,14.8,1.1,Security,No,No
+F00532,2026-02-25,Air India,BLR,DEL,Evening,0.0,3.4,None,No,No
+F00533,2025-11-26,IndiGo,DEL,BOM,Night,0.0,13.9,None,No,No
+F00534,2026-08-31,SpiceJet,CCU,MAA,Morning,32.0,14.9,Security,No,No
+F00535,2025-07-01,Air India,DEL,MAA,Morning,0.0,7.4,Weather,No,No
+F00536,2025-12-14,IndiGo,BLR,MAA,Morning,18.8,13.2,Air Traffic,Yes,No
+F00537,2025-04-21,Air India,HYD,MAA,Night,62.2,74.6,Air Traffic,No,No
+F00538,2026-02-28,Vistara,CCU,DEL,Night,0.0,0.0,Air Traffic,No,No
+F00539,2025-01-25,Air India,BLR,BLR,Afternoon,0.0,0.0,None,No,No
+F00540,2025-10-03,Air India,MAA,HYD,Night,17.1,75.3,None,No,No
+F00541,2025-01-07,Air India,BLR,DEL,Evening,10.2,19.3,Carrier,No,No
+F00542,2025-08-08,SpiceJet,BLR,MAA,Night,1.2,11.5,None,No,No
+F00543,2025-11-20,Vistara,BLR,HYD,Night,0.0,22.6,None,No,No
+F00544,2025-08-10,Akasa,CCU,MAA,Night,40.2,35.4,Security,No,No
+F00545,2025-09-16,IndiGo,HYD,BOM,Afternoon,42.8,6.0,Carrier,No,No
+F00546,2025-04-10,IndiGo,DEL,CCU,Evening,0.0,47.2,Security,No,No
+F00547,2026-04-24,IndiGo,CCU,DEL,Morning,0.0,0.0,Air Traffic,No,No
+F00548,2026-06-17,Akasa,BLR,DEL,Night,26.8,14.9,None,No,No
+F00549,2025-11-01,Vistara,BLR,HYD,Afternoon,0.0,0.0,Security,No,No
+F00550,2025-02-07,IndiGo,DEL,DEL,Afternoon,28.3,73.9,None,No,No
+F00551,2025-02-11,SpiceJet,MAA,BOM,Evening,73.4,20.0,Air Traffic,No,No
+F00552,2026-03-28,Vistara,DEL,CCU,Night,19.9,53.8,Weather,No,No
+F00553,2026-09-14,Air India,MAA,BLR,Evening,0.0,46.1,Air Traffic,No,Yes
+F00554,2026-08-02,SpiceJet,DEL,BLR,Night,35.7,49.0,None,No,No
+F00555,2025-09-29,Air India,HYD,BOM,Evening,15.8,26.7,Security,No,No
+F00556,2025-11-29,Air India,DEL,CCU,Night,16.7,42.5,Security,No,No
+F00557,2025-04-20,SpiceJet,BLR,MAA,Evening,38.6,0.0,Security,No,No
+F00558,2025-02-16,Vistara,MAA,CCU,Afternoon,46.2,0.0,Air Traffic,No,No
+F00559,2026-05-28,IndiGo,HYD,BLR,Night,23.2,23.0,Weather,No,No
+F00560,2025-10-14,Air India,HYD,BLR,Afternoon,19.9,0.0,Air Traffic,Yes,No
+F00561,2025-11-29,Vistara,DEL,DEL,Evening,94.2,84.0,Weather,No,No
+F00562,2025-08-18,SpiceJet,MAA,DEL,Afternoon,64.0,42.0,Carrier,No,No
+F00563,2025-07-29,IndiGo,BLR,BOM,Afternoon,51.2,0.0,Security,No,No
+F00564,2026-10-22,Vistara,HYD,BLR,Afternoon,26.6,16.1,None,No,No
+F00565,2026-07-01,IndiGo,MAA,MAA,Afternoon,0.0,32.3,Carrier,No,No
+F00566,2026-04-08,Akasa,HYD,MAA,Night,61.5,24.3,Security,No,No
+F00567,2025-09-18,SpiceJet,CCU,DEL,Night,27.1,37.9,Carrier,No,No
+F00568,2026-04-28,IndiGo,BOM,BOM,Evening,1.8,29.7,Carrier,No,No
+F00569,2025-08-15,Vistara,BLR,DEL,Morning,13.5,0.0,None,No,No
+F00570,2025-12-12,Akasa,HYD,DEL,Morning,0.0,0.0,Security,No,No
+F00571,2025-04-08,IndiGo,BOM,BLR,Morning,59.0,12.1,Weather,No,No
+F00572,2026-04-20,Air India,BLR,MAA,Evening,45.9,49.4,Weather,No,No
+F00573,2025-02-10,IndiGo,CCU,BOM,Night,28.4,12.5,Weather,No,No
+F00574,2026-04-29,SpiceJet,MAA,CCU,Afternoon,20.5,76.5,Air Traffic,No,No
+F00575,2026-02-08,Akasa,CCU,BLR,Afternoon,0.0,25.1,Weather,No,No
+F00576,2025-02-14,IndiGo,MAA,HYD,Evening,0.0,81.3,Air Traffic,No,No
+F00577,2025-12-05,Air India,MAA,MAA,Night,0.0,73.1,Air Traffic,No,No
+F00578,2025-05-29,Air India,BOM,CCU,Afternoon,0.0,69.1,Security,No,No
+F00579,2025-11-15,Vistara,MAA,CCU,Afternoon,0.0,0.0,Carrier,Yes,No
+F00580,2025-01-09,Air India,HYD,BLR,Evening,32.1,27.7,Weather,No,No
+F00581,2026-04-28,Air India,MAA,DEL,Night,50.4,75.9,Weather,No,No
+F00582,2025-12-08,SpiceJet,HYD,MAA,Evening,17.5,37.9,Weather,No,No
+F00583,2025-08-31,Akasa,DEL,MAA,Evening,71.3,49.2,Weather,Yes,No
+F00584,2026-08-09,IndiGo,HYD,MAA,Evening,0.0,0.0,Carrier,No,No
+F00585,2026-03-08,Vistara,CCU,BLR,Morning,17.3,103.8,None,No,No
+F00586,2026-02-12,Vistara,DEL,BOM,Night,20.2,0.0,Security,No,No
+F00587,2025-04-09,SpiceJet,HYD,BOM,Morning,60.2,0.0,Carrier,No,No
+F00588,2025-12-01,Akasa,HYD,BLR,Afternoon,25.7,13.0,None,No,No
+F00589,2026-04-14,Akasa,BLR,BLR,Afternoon,26.7,0.0,Security,No,No
+F00590,2026-09-12,IndiGo,CCU,BOM,Evening,0.0,0.0,Security,No,No
+F00591,2026-02-09,Akasa,DEL,MAA,Morning,0.0,129.3,None,No,No
+F00592,2025-04-26,Air India,BLR,HYD,Morning,60.4,11.8,Security,No,No
+F00593,2026-03-30,Akasa,MAA,BOM,Night,0.0,0.0,None,No,No
+F00594,2025-02-19,Air India,HYD,HYD,Afternoon,69.0,28.0,Carrier,No,No
+F00595,2025-07-29,Air India,BOM,CCU,Evening,39.5,0.0,None,No,No
+F00596,2026-09-06,Air India,DEL,HYD,Evening,0.0,61.6,Weather,No,No
+F00597,2026-06-21,Air India,HYD,MAA,Evening,0.0,0.0,Carrier,No,No
+F00598,2026-08-27,Vistara,MAA,MAA,Evening,88.4,37.8,None,No,No
+F00599,2025-08-24,SpiceJet,DEL,BLR,Evening,71.4,0.0,Weather,No,No
+F00600,2026-04-02,SpiceJet,DEL,BLR,Night,17.8,131.0,Air Traffic,No,No
+F00601,2026-04-14,Air India,BLR,BOM,Night,26.7,47.1,Carrier,No,Yes
+F00602,2025-06-14,IndiGo,BOM,CCU,Afternoon,0.0,21.2,Weather,No,No
+F00603,2026-09-23,Air India,DEL,MAA,Morning,26.7,15.3,Carrier,No,No
+F00604,2026-10-11,Air India,BOM,HYD,Night,0.0,4.9,Air Traffic,No,No
+F00605,2025-03-15,SpiceJet,HYD,BOM,Afternoon,19.3,0.0,Security,No,No
+F00606,2026-05-28,SpiceJet,CCU,HYD,Afternoon,85.4,0.0,Security,No,No
+F00607,2025-10-27,IndiGo,BOM,CCU,Morning,18.7,94.1,Weather,No,No
+F00608,2026-03-27,IndiGo,CCU,DEL,Evening,0.0,4.9,Carrier,No,No
+F00609,2026-01-06,Akasa,CCU,HYD,Evening,0.0,0.0,Weather,No,No
+F00610,2025-05-30,Vistara,DEL,HYD,Night,26.4,0.0,Weather,No,No
+F00611,2025-03-06,IndiGo,MAA,HYD,Evening,0.0,64.1,Carrier,No,No
+F00612,2025-12-10,Akasa,BOM,HYD,Evening,30.6,16.9,Security,No,No
+F00613,2026-07-15,Air India,CCU,MAA,Evening,0.0,21.6,Carrier,No,No
+F00614,2026-07-05,IndiGo,CCU,DEL,Night,46.2,73.8,Weather,No,No
+F00615,2025-07-03,SpiceJet,MAA,HYD,Night,0.0,0.0,Carrier,No,No
+F00616,2026-07-30,Vistara,BLR,CCU,Night,23.6,52.3,Air Traffic,No,No
+F00617,2025-08-27,Air India,HYD,CCU,Afternoon,10.2,0.3,Carrier,No,No
+F00618,2026-01-11,Akasa,DEL,BLR,Afternoon,82.1,50.0,None,Yes,No
+F00619,2025-08-06,IndiGo,BLR,MAA,Morning,28.0,11.4,Air Traffic,No,No
+F00620,2025-12-16,SpiceJet,MAA,BOM,Night,90.1,17.3,None,No,No
+F00621,2025-12-21,IndiGo,DEL,BLR,Evening,41.6,59.8,Weather,No,No
+F00622,2026-04-12,SpiceJet,DEL,CCU,Night,71.9,56.9,Carrier,No,No
+F00623,2025-11-12,Akasa,CCU,BLR,Night,14.7,20.4,Weather,No,No
+F00624,2025-12-20,SpiceJet,HYD,BLR,Afternoon,34.1,8.1,Weather,No,No
+F00625,2026-03-12,Akasa,BLR,HYD,Morning,64.7,91.0,None,No,No
+F00626,2025-10-07,Vistara,BOM,HYD,Morning,53.7,50.6,Air Traffic,No,No
+F00627,2025-12-17,Air India,BOM,MAA,Night,40.6,11.4,Security,No,No
+F00628,2025-02-27,Vistara,CCU,HYD,Afternoon,10.5,0.9,Carrier,No,No
+F00629,2026-08-05,Vistara,BLR,BOM,Afternoon,16.4,68.0,Weather,No,No
+F00630,2025-03-26,SpiceJet,CCU,DEL,Night,61.8,31.6,None,No,No
+F00631,2026-08-08,IndiGo,BLR,MAA,Afternoon,69.1,20.5,Security,No,No
+F00632,2026-05-24,SpiceJet,BLR,BLR,Night,1.2,31.6,Security,No,No
+F00633,2026-09-26,Vistara,BOM,BOM,Evening,0.0,40.5,Air Traffic,No,No
+F00634,2025-01-17,SpiceJet,HYD,BOM,Night,0.0,24.7,Air Traffic,No,No
+F00635,2025-05-26,Vistara,BOM,DEL,Morning,51.0,75.1,Air Traffic,No,No
+F00636,2025-02-04,IndiGo,MAA,BOM,Afternoon,0.0,77.4,Security,No,No
+F00637,2025-10-07,IndiGo,BLR,CCU,Morning,50.6,48.3,Carrier,No,No
+F00638,2026-08-29,Akasa,CCU,HYD,Morning,41.1,82.0,Carrier,No,No
+F00639,2026-05-28,Air India,BLR,HYD,Night,2.9,27.3,Carrier,No,No
+F00640,2026-04-16,IndiGo,BLR,DEL,Evening,76.7,54.6,Air Traffic,No,No
+F00641,2026-07-22,Vistara,BLR,CCU,Afternoon,0.0,67.2,None,No,No
+F00642,2025-01-03,Air India,BLR,MAA,Afternoon,80.1,67.8,None,No,No
+F00643,2026-06-11,Akasa,BLR,MAA,Morning,33.2,63.6,Air Traffic,No,No
+F00644,2025-07-28,IndiGo,MAA,BLR,Morning,0.0,52.2,Carrier,No,No
+F00645,2026-04-08,IndiGo,CCU,HYD,Night,77.7,105.3,None,No,No
+F00646,2026-05-26,IndiGo,DEL,BOM,Morning,56.0,5.4,Carrier,No,Yes
+F00647,2026-04-04,Air India,DEL,MAA,Afternoon,7.0,20.8,Carrier,No,No
+F00648,2025-10-07,SpiceJet,DEL,MAA,Morning,0.0,18.4,None,No,No
+F00649,2026-02-14,Vistara,CCU,BOM,Night,0.0,12.3,Carrier,No,No
+F00650,2025-11-10,IndiGo,BOM,BLR,Morning,106.5,0.0,Air Traffic,No,No
+F00651,2026-02-25,Akasa,BLR,BOM,Afternoon,0.0,82.0,None,No,No
+F00652,2025-11-03,SpiceJet,CCU,HYD,Night,0.0,0.0,Carrier,No,No
+F00653,2025-09-21,Vistara,DEL,BOM,Evening,31.4,33.8,Security,No,No
+F00654,2025-05-16,Vistara,DEL,CCU,Afternoon,0.0,0.0,Weather,No,No
+F00655,2025-09-17,SpiceJet,DEL,MAA,Evening,0.0,51.8,None,No,No
+F00656,2026-04-28,Air India,BOM,MAA,Afternoon,56.8,0.0,Air Traffic,No,No
+F00657,2026-08-06,Akasa,DEL,BOM,Afternoon,38.2,0.0,Security,No,No
+F00658,2025-03-10,IndiGo,HYD,DEL,Evening,8.5,34.8,Air Traffic,No,No
+F00659,2025-05-03,Air India,CCU,CCU,Afternoon,22.6,0.0,Air Traffic,No,No
+F00660,2025-12-06,Vistara,BOM,DEL,Night,6.5,4.0,Air Traffic,No,No
+F00661,2026-04-16,Akasa,HYD,BLR,Afternoon,19.8,33.9,Weather,No,No
+F00662,2025-04-24,SpiceJet,BOM,MAA,Night,0.0,59.0,Carrier,No,No
+F00663,2025-08-06,IndiGo,DEL,BLR,Morning,1.7,0.0,Carrier,No,No
+F00664,2025-02-01,IndiGo,BLR,DEL,Evening,0.6,0.0,Carrier,No,No
+F00665,2025-02-05,Vistara,CCU,MAA,Evening,0.0,27.9,Carrier,No,No
+F00666,2025-04-06,IndiGo,BOM,CCU,Evening,58.5,48.6,Security,No,No
+F00667,2026-05-03,Akasa,CCU,BOM,Afternoon,49.0,85.5,None,No,No
+F00668,2026-08-05,IndiGo,MAA,HYD,Evening,0.0,0.0,None,No,No
+F00669,2025-11-30,IndiGo,DEL,HYD,Morning,0.0,14.3,None,No,No
+F00670,2025-04-28,Air India,DEL,HYD,Evening,16.5,74.0,Security,No,No
+F00671,2026-09-09,SpiceJet,BOM,MAA,Night,97.4,105.9,Air Traffic,No,No
+F00672,2025-07-06,Air India,MAA,CCU,Afternoon,0.0,0.0,Security,No,Yes
+F00673,2025-04-14,Akasa,DEL,BOM,Morning,16.4,0.0,Weather,No,No
+F00674,2025-04-03,Akasa,BLR,MAA,Evening,25.1,42.2,None,No,No
+F00675,2025-08-25,Air India,HYD,MAA,Night,18.2,3.9,Air Traffic,No,No
+F00676,2026-05-08,Air India,DEL,DEL,Afternoon,6.0,0.0,Weather,No,No
+F00677,2025-09-23,Akasa,DEL,BOM,Morning,62.4,36.8,Air Traffic,No,No
+F00678,2025-10-26,Air India,DEL,HYD,Afternoon,37.9,89.0,Carrier,No,No
+F00679,2025-08-16,Vistara,DEL,MAA,Night,51.6,0.0,Carrier,No,No
+F00680,2026-09-24,Akasa,HYD,CCU,Afternoon,42.6,86.9,Weather,No,No
+F00681,2026-04-03,Air India,MAA,HYD,Evening,53.3,4.0,Weather,No,No
+F00682,2026-03-21,SpiceJet,BLR,BOM,Afternoon,77.5,40.8,Carrier,No,No
+F00683,2025-10-20,IndiGo,BOM,DEL,Evening,68.6,90.6,Carrier,No,No
+F00684,2025-12-22,Vistara,BOM,MAA,Afternoon,103.4,40.0,None,No,No
+F00685,2026-08-16,Akasa,MAA,HYD,Afternoon,64.6,15.1,Carrier,No,No
+F00686,2026-03-16,SpiceJet,MAA,BLR,Evening,0.0,55.7,Carrier,No,No
+F00687,2026-06-29,IndiGo,HYD,MAA,Evening,51.7,20.1,None,No,No
+F00688,2025-01-28,Akasa,BLR,DEL,Afternoon,46.9,47.9,None,No,No
+F00689,2026-07-30,Vistara,DEL,BOM,Afternoon,89.2,18.8,Weather,No,No
+F00690,2026-09-28,Air India,MAA,MAA,Morning,0.0,61.4,Weather,Yes,No
+F00691,2026-03-23,IndiGo,DEL,BOM,Evening,41.5,0.0,Weather,No,No
+F00692,2026-10-02,IndiGo,DEL,MAA,Afternoon,0.0,0.0,Air Traffic,No,No
+F00693,2026-01-15,SpiceJet,CCU,MAA,Evening,39.9,0.0,Air Traffic,No,No
+F00694,2025-07-04,Akasa,BOM,DEL,Afternoon,14.5,24.7,Carrier,No,No
+F00695,2026-02-10,Air India,DEL,BLR,Night,38.8,0.0,Weather,No,No
+F00696,2026-02-25,SpiceJet,HYD,CCU,Evening,0.0,0.0,Carrier,No,No
+F00697,2025-04-07,Akasa,DEL,BLR,Afternoon,49.8,0.0,Security,No,No
+F00698,2025-05-16,Akasa,BOM,BOM,Afternoon,29.2,86.2,Carrier,No,No
+F00699,2025-07-14,SpiceJet,HYD,DEL,Evening,27.3,0.0,Weather,No,No
+F00700,2026-01-02,IndiGo,BOM,DEL,Morning,90.3,0.0,Security,No,No
+F00701,2025-04-10,Air India,CCU,BOM,Morning,8.6,36.9,Security,No,No
+F00702,2026-05-31,Akasa,DEL,BOM,Morning,34.0,94.5,Air Traffic,No,No
+F00703,2025-03-15,Vistara,HYD,BOM,Afternoon,25.5,22.4,None,No,No
+F00704,2026-09-21,IndiGo,DEL,MAA,Afternoon,28.9,25.5,None,No,No
+F00705,2026-03-29,SpiceJet,CCU,HYD,Afternoon,99.8,78.6,Weather,No,No
+F00706,2025-08-15,SpiceJet,CCU,DEL,Morning,24.2,62.1,None,No,No
+F00707,2025-09-07,Akasa,CCU,DEL,Afternoon,2.1,44.0,Weather,No,No
+F00708,2026-04-09,Akasa,BOM,DEL,Afternoon,87.5,3.7,Air Traffic,No,No
+F00709,2025-03-01,Akasa,BOM,BOM,Afternoon,11.2,45.2,None,No,No
+F00710,2026-04-25,Air India,MAA,CCU,Evening,0.0,0.0,None,No,No
+F00711,2026-01-05,Air India,CCU,DEL,Afternoon,0.0,2.1,Weather,No,No
+F00712,2025-05-28,IndiGo,BOM,BLR,Night,0.0,84.3,Weather,No,No
+F00713,2026-08-24,SpiceJet,DEL,BLR,Night,0.0,79.1,Carrier,No,No
+F00714,2026-02-25,Vistara,BLR,DEL,Evening,9.3,44.5,Carrier,No,No
+F00715,2025-04-20,Akasa,HYD,DEL,Evening,19.5,0.0,Carrier,No,No
+F00716,2026-03-15,Akasa,BLR,BOM,Morning,63.3,0.0,Air Traffic,No,No
+F00717,2025-10-03,Akasa,CCU,DEL,Evening,44.0,0.0,Carrier,No,No
+F00718,2026-05-27,Air India,HYD,CCU,Afternoon,42.4,20.1,Air Traffic,No,No
+F00719,2025-11-26,SpiceJet,MAA,MAA,Afternoon,0.0,0.0,None,No,No
+F00720,2026-10-31,Akasa,MAA,HYD,Night,53.0,17.1,Air Traffic,No,No
+F00721,2026-09-13,Akasa,BLR,CCU,Morning,70.7,97.7,Carrier,No,No
+F00722,2025-01-27,IndiGo,MAA,CCU,Afternoon,35.8,43.0,Air Traffic,No,No
+F00723,2025-10-02,SpiceJet,BLR,MAA,Night,36.8,35.8,Security,No,No
+F00724,2025-05-16,Vistara,DEL,DEL,Night,0.0,0.0,None,No,No
+F00725,2025-10-29,Air India,BOM,MAA,Evening,58.9,0.0,None,No,No
+F00726,2025-04-08,IndiGo,BLR,BLR,Evening,84.3,0.0,Carrier,No,No
+F00727,2025-12-25,IndiGo,MAA,HYD,Night,33.3,0.0,None,No,No
+F00728,2025-04-14,Akasa,CCU,CCU,Morning,1.2,30.0,None,No,No
+F00729,2026-02-21,Air India,DEL,BLR,Afternoon,16.3,,Weather,No,No
+F00730,2025-10-31,Air India,DEL,BOM,Morning,7.3,,Air Traffic,No,No
+F00731,2026-10-27,Vistara,HYD,DEL,Afternoon,9.4,32.9,Weather,No,No
+F00732,2026-08-11,Vistara,HYD,BOM,Night,44.7,85.8,Air Traffic,No,No
+F00733,2026-02-06,Vistara,CCU,DEL,Evening,31.8,105.3,Weather,No,No
+F00734,2025-10-28,Air India,BOM,BLR,Night,57.1,57.8,Carrier,No,No
+F00735,2026-04-24,Vistara,CCU,CCU,Evening,35.0,20.0,Air Traffic,No,No
+F00736,2026-03-24,Akasa,BLR,BLR,Night,0.0,56.5,Carrier,No,No
+F00737,2025-04-04,Air India,BLR,HYD,Morning,4.5,81.1,Weather,No,No
+F00738,2025-09-09,SpiceJet,BLR,BOM,Afternoon,2.3,0.0,Carrier,No,No
+F00739,2026-10-26,Air India,MAA,HYD,Afternoon,15.5,86.3,Air Traffic,No,No
+F00740,2025-08-02,IndiGo,BLR,MAA,Night,84.8,5.2,Security,No,No
+F00741,2025-01-09,Akasa,HYD,BOM,Evening,90.4,5.6,Weather,No,No
+F00742,2026-07-13,IndiGo,MAA,BLR,Morning,51.3,12.8,Air Traffic,No,Yes
+F00743,2026-09-17,Vistara,DEL,MAA,Morning,26.2,39.8,Weather,No,No
+F00744,2026-03-15,IndiGo,HYD,HYD,Afternoon,0.0,0.0,Weather,No,No
+F00745,2026-03-01,SpiceJet,CCU,BLR,Morning,29.7,15.6,Weather,No,No
+F00746,2025-08-23,Vistara,MAA,DEL,Evening,0.0,48.0,Security,No,No
+F00747,2025-08-29,Vistara,DEL,MAA,Night,79.1,35.7,None,No,No
+F00748,2026-09-04,Akasa,CCU,HYD,Night,0.0,42.2,Security,No,No
+F00749,2026-07-29,Vistara,CCU,DEL,Morning,35.5,14.0,Carrier,No,No
+F00750,2025-11-30,Vistara,BLR,HYD,Afternoon,0.0,54.7,None,Yes,No
+F00751,2025-07-29,Akasa,CCU,MAA,Evening,21.7,69.3,Air Traffic,No,No
+F00752,2025-05-06,Vistara,BLR,MAA,Afternoon,45.3,66.9,Air Traffic,No,No
+F00753,2025-01-08,Akasa,HYD,BOM,Afternoon,57.8,,Security,No,No
+F00754,2025-11-20,SpiceJet,BLR,BLR,Morning,19.9,64.6,Security,No,No
+F00755,2026-01-06,Akasa,BOM,MAA,Morning,48.6,61.8,Air Traffic,No,No
+F00756,2026-03-28,Vistara,CCU,CCU,Afternoon,0.0,134.1,Air Traffic,No,No
+F00757,2026-06-23,Vistara,BOM,HYD,Morning,30.6,75.7,Carrier,No,No
+F00758,2025-09-03,Air India,BOM,BOM,Morning,57.1,23.5,Security,No,No
+F00759,2025-04-22,Air India,MAA,CCU,Evening,33.6,0.0,Security,No,No
+F00760,2026-07-19,Air India,MAA,HYD,Night,3.5,16.6,Air Traffic,No,No
+F00761,2026-05-26,SpiceJet,HYD,HYD,Evening,12.2,,Security,No,No
+F00762,2025-12-23,IndiGo,HYD,MAA,Morning,57.5,47.5,Weather,No,No
+F00763,2025-01-27,IndiGo,BLR,BLR,Night,0.0,0.0,Air Traffic,No,No
+F00764,2025-11-09,SpiceJet,HYD,HYD,Evening,0.0,74.7,None,No,No
+F00765,2026-02-19,IndiGo,HYD,DEL,Afternoon,43.1,0.0,Security,No,No
+F00766,2026-07-29,Air India,HYD,CCU,Afternoon,6.6,0.0,Security,No,No
+F00767,2025-12-06,Vistara,HYD,HYD,Night,0.0,21.6,None,No,No
+F00768,2025-11-06,Vistara,HYD,MAA,Afternoon,69.3,0.0,Security,No,No
+F00769,2025-09-12,Air India,MAA,BOM,Morning,0.0,0.0,Security,No,No
+F00770,2025-10-05,IndiGo,CCU,MAA,Afternoon,15.0,1.5,Air Traffic,No,No
+F00771,2025-01-11,IndiGo,BLR,HYD,Afternoon,0.3,0.0,None,No,No
+F00772,2025-03-11,SpiceJet,HYD,BOM,Afternoon,11.6,27.4,Security,No,No
+F00773,2026-05-21,IndiGo,BOM,DEL,Afternoon,0.0,2.2,Air Traffic,No,No
+F00774,2025-08-31,Air India,BOM,BOM,Evening,47.0,5.4,Weather,No,No
+F00775,2026-07-24,IndiGo,CCU,BOM,Afternoon,25.9,26.8,None,No,No
+F00776,2025-09-23,Vistara,HYD,HYD,Evening,56.4,67.6,Carrier,No,No
+F00777,2026-10-29,SpiceJet,DEL,MAA,Afternoon,0.7,85.8,Carrier,Yes,No
+F00778,2025-05-01,Air India,BLR,MAA,Night,96.7,32.9,Weather,No,No
+F00779,2025-05-06,Akasa,MAA,CCU,Night,0.0,36.0,Carrier,No,No
+F00780,2026-01-29,IndiGo,HYD,BLR,Afternoon,0.0,19.7,Weather,No,No
+F00781,2026-06-21,IndiGo,MAA,HYD,Morning,83.4,46.2,Weather,Yes,No
+F00782,2025-04-07,Air India,HYD,BOM,Evening,38.6,42.6,Weather,No,No
+F00783,2025-12-03,IndiGo,DEL,BOM,Afternoon,33.9,80.0,Carrier,No,No
+F00784,2025-05-30,Vistara,BOM,HYD,Night,37.1,0.0,Security,No,No
+F00785,2026-05-09,SpiceJet,DEL,CCU,Afternoon,42.0,17.6,None,No,No
+F00786,2026-01-11,SpiceJet,CCU,DEL,Afternoon,32.5,40.6,Carrier,No,No
+F00787,2026-03-14,Vistara,CCU,DEL,Afternoon,0.0,25.9,Air Traffic,No,No
+F00788,2025-06-29,Air India,BLR,BOM,Night,50.6,0.0,None,No,No
+F00789,2025-07-13,IndiGo,CCU,BOM,Morning,45.1,0.0,Security,No,No
+F00790,2026-03-04,SpiceJet,HYD,DEL,Night,72.0,59.3,None,Yes,No
+F00791,2025-08-25,SpiceJet,CCU,DEL,Morning,83.7,0.0,Air Traffic,No,No
+F00792,2026-04-07,Vistara,CCU,DEL,Night,33.6,0.0,Weather,No,No
+F00793,2025-04-14,Vistara,BLR,BLR,Evening,0.0,61.3,Weather,No,No
+F00794,2025-07-21,Vistara,HYD,CCU,Evening,84.0,45.4,Security,Yes,No
+F00795,2025-03-10,Akasa,BOM,DEL,Morning,0.0,22.4,Weather,No,No
+F00796,2025-02-28,Vistara,CCU,BOM,Evening,33.8,0.0,Air Traffic,No,No
+F00797,2025-06-25,Vistara,MAA,MAA,Evening,13.0,22.5,Carrier,No,No
+F00798,2025-11-24,IndiGo,BOM,BOM,Afternoon,6.9,75.6,None,No,No
+F00799,2025-04-07,Vistara,CCU,MAA,Afternoon,48.8,0.0,None,No,No
+F00800,2025-03-04,SpiceJet,DEL,HYD,Evening,30.6,0.0,Air Traffic,No,No
+F00801,2026-08-10,Akasa,BLR,CCU,Afternoon,40.0,1.9,Air Traffic,No,No
+F00802,2025-12-11,SpiceJet,CCU,BOM,Night,0.0,25.9,Carrier,No,No
+F00803,2026-04-24,SpiceJet,BOM,BOM,Morning,15.9,7.1,Security,No,No
+F00804,2026-05-01,SpiceJet,BOM,BLR,Afternoon,0.0,,Carrier,No,No
+F00805,2025-03-09,Air India,BLR,DEL,Night,15.0,70.6,Security,Yes,No
+F00806,2026-02-20,IndiGo,DEL,BOM,Night,17.8,38.2,None,No,No
+F00807,2026-07-30,IndiGo,HYD,MAA,Afternoon,86.6,49.4,Weather,No,No
+F00808,2025-10-27,SpiceJet,DEL,DEL,Evening,12.9,37.9,Carrier,No,No
+F00809,2026-07-31,SpiceJet,BOM,HYD,Morning,0.0,27.4,Carrier,No,No
+F00810,2026-09-25,Air India,BOM,CCU,Morning,70.8,0.0,None,Yes,No
+F00811,2026-01-01,Air India,MAA,DEL,Night,37.7,0.0,Security,No,No
+F00812,2025-03-10,Vistara,MAA,DEL,Evening,17.4,0.0,Weather,No,No
+F00813,2026-02-18,Akasa,DEL,HYD,Morning,6.7,21.1,Carrier,No,No
+F00814,2026-08-12,Air India,DEL,BOM,Night,0.0,36.3,Security,No,No
+F00815,2026-01-23,Akasa,CCU,MAA,Afternoon,89.8,0.0,None,No,Yes
+F00816,2026-06-20,Air India,BOM,BOM,Evening,23.8,29.9,Air Traffic,No,No
+F00817,2025-12-25,IndiGo,HYD,DEL,Night,0.0,0.0,Weather,No,No
+F00818,2025-10-08,SpiceJet,MAA,BOM,Night,33.5,0.0,Weather,No,No
+F00819,2026-09-25,SpiceJet,DEL,BOM,Morning,64.2,2.0,Weather,No,No
+F00820,2025-04-13,Akasa,MAA,DEL,Afternoon,27.5,0.0,Weather,No,No
+F00821,2025-10-27,Air India,DEL,HYD,Afternoon,0.0,51.3,Air Traffic,No,No
+F00822,2025-04-15,Air India,BOM,BLR,Night,0.0,20.3,Carrier,No,No
+F00823,2026-03-15,Vistara,HYD,HYD,Night,0.0,59.6,Carrier,No,No
+F00824,2026-09-09,Vistara,MAA,BOM,Evening,75.3,9.3,Security,No,No
+F00825,2026-10-30,IndiGo,HYD,DEL,Morning,19.5,10.8,Air Traffic,No,No
+F00826,2025-06-06,SpiceJet,DEL,DEL,Night,0.0,101.9,Security,No,No
+F00827,2026-05-02,IndiGo,BOM,DEL,Evening,35.4,0.0,Air Traffic,No,No
+F00828,2026-08-08,Akasa,CCU,MAA,Afternoon,26.9,78.4,Carrier,No,No
+F00829,2026-07-12,Air India,HYD,BOM,Afternoon,6.3,93.2,None,No,No
+F00830,2025-12-03,SpiceJet,DEL,BOM,Afternoon,0.0,57.6,Air Traffic,No,No
+F00831,2025-04-27,Vistara,HYD,HYD,Afternoon,0.0,13.8,None,Yes,No
+F00832,2025-11-05,Air India,BLR,DEL,Night,60.0,84.1,Weather,No,No
+F00833,2026-06-04,SpiceJet,DEL,HYD,Night,30.7,14.1,None,No,No
+F00834,2026-02-19,Air India,BOM,HYD,Morning,38.8,0.0,Security,No,No
+F00835,2025-09-17,Vistara,MAA,CCU,Night,30.6,11.5,Carrier,No,No
+F00836,2025-05-24,SpiceJet,CCU,DEL,Afternoon,33.5,,Security,No,No
+F00837,2026-03-13,Air India,DEL,DEL,Night,5.6,0.0,Security,No,No
+F00838,2025-10-14,IndiGo,DEL,CCU,Night,14.8,71.4,None,No,No
+F00839,2025-11-12,IndiGo,BLR,BLR,Evening,62.8,0.0,Carrier,No,Yes
+F00840,2026-09-20,Akasa,BLR,DEL,Evening,71.5,25.8,None,No,No
+F00841,2025-01-07,IndiGo,BLR,HYD,Evening,0.0,0.0,Security,No,No
+F00842,2025-06-09,Akasa,CCU,BLR,Night,14.7,28.2,Carrier,No,No
+F00843,2026-09-08,Vistara,BOM,MAA,Afternoon,51.4,0.0,Carrier,No,No
+F00844,2026-09-09,Akasa,DEL,MAA,Evening,87.9,0.0,Carrier,No,No
+F00845,2025-07-22,Akasa,CCU,HYD,Night,84.4,22.6,Air Traffic,Yes,No
+F00846,2026-10-28,IndiGo,MAA,DEL,Night,0.0,69.3,None,No,No
+F00847,2025-05-22,Vistara,BOM,CCU,Morning,66.6,44.6,None,No,No
+F00848,2025-02-04,SpiceJet,BLR,BOM,Afternoon,24.1,47.4,Weather,No,No
+F00849,2025-07-25,Air India,HYD,MAA,Evening,58.6,21.8,Weather,No,No
+F00850,2025-12-22,SpiceJet,DEL,HYD,Evening,49.6,13.6,Weather,No,No
+F00851,2025-01-05,Vistara,MAA,BLR,Evening,0.0,58.6,Security,No,No
+F00852,2025-04-25,Air India,BOM,MAA,Night,41.2,4.5,Carrier,No,No
+F00853,2026-06-14,Akasa,HYD,HYD,Evening,57.2,60.4,Security,No,No
+F00854,2026-02-20,IndiGo,BLR,BLR,Evening,21.3,76.4,Security,No,No
+F00855,2026-02-09,Akasa,CCU,BOM,Night,13.4,0.0,Weather,Yes,No
+F00856,2026-10-25,IndiGo,BOM,HYD,Morning,0.0,0.0,Security,No,No
+F00857,2025-06-02,Vistara,DEL,BOM,Evening,45.9,5.2,Security,No,No
+F00858,2026-08-24,IndiGo,HYD,DEL,Afternoon,29.3,0.0,None,No,No
+F00859,2025-08-26,Akasa,MAA,DEL,Night,0.0,8.2,Security,No,No
+F00860,2026-09-11,Akasa,HYD,HYD,Evening,10.6,79.1,Carrier,Yes,No
+F00861,2026-06-08,SpiceJet,CCU,MAA,Evening,27.4,0.0,None,No,No
+F00862,2025-05-23,Akasa,BLR,BOM,Night,2.4,80.0,Carrier,No,No
+F00863,2025-05-21,SpiceJet,DEL,BOM,Morning,22.1,9.7,None,No,No
+F00864,2025-12-29,IndiGo,BLR,HYD,Evening,0.0,111.6,Carrier,No,No
+F00865,2025-12-03,Akasa,MAA,DEL,Night,69.2,0.0,None,No,No
+F00866,2025-06-07,Vistara,CCU,DEL,Night,22.6,21.2,Security,No,No
+F00867,2025-06-24,IndiGo,CCU,HYD,Morning,0.0,0.0,Air Traffic,No,No
+F00868,2026-08-25,Air India,BOM,HYD,Night,0.0,0.0,Carrier,No,No
+F00869,2026-05-20,SpiceJet,HYD,DEL,Morning,58.0,80.5,Weather,No,No
+F00870,2025-05-08,IndiGo,HYD,BOM,Afternoon,41.5,46.0,None,No,No
+F00871,2026-05-01,SpiceJet,HYD,BOM,Night,29.4,,None,No,No
+F00872,2025-04-13,Air India,MAA,CCU,Evening,52.2,0.0,Air Traffic,No,No
+F00873,2025-10-25,SpiceJet,CCU,HYD,Evening,52.1,53.2,None,No,No
+F00874,2025-01-09,SpiceJet,BOM,CCU,Evening,28.8,0.0,Security,No,No
+F00875,2026-03-11,Vistara,BOM,DEL,Night,13.1,0.0,Carrier,No,No
+F00876,2025-05-02,SpiceJet,HYD,MAA,Morning,7.4,36.6,None,No,No
+F00877,2025-06-07,Akasa,MAA,BOM,Afternoon,36.7,36.1,Security,No,No
+F00878,2025-05-07,Akasa,MAA,MAA,Afternoon,70.9,29.1,Air Traffic,Yes,No
+F00879,2025-05-03,Vistara,HYD,MAA,Night,18.4,55.7,Weather,No,No
+F00880,2025-02-21,Akasa,HYD,BLR,Evening,73.7,61.9,Security,No,No
+F00881,2026-01-06,Akasa,CCU,CCU,Evening,35.1,85.8,Carrier,No,No
+F00882,2026-08-04,Air India,MAA,CCU,Night,35.3,0.0,Carrier,No,No
+F00883,2025-07-21,IndiGo,DEL,CCU,Night,106.2,87.1,Security,No,No
+F00884,2026-06-06,SpiceJet,BOM,DEL,Afternoon,79.8,102.3,None,No,No
+F00885,2025-12-30,Vistara,BLR,DEL,Afternoon,80.8,12.4,Weather,No,No
+F00886,2025-06-20,Air India,HYD,MAA,Morning,0.0,0.0,None,No,No
+F00887,2025-02-11,Vistara,BOM,CCU,Morning,98.7,0.0,Carrier,No,No
+F00888,2026-06-08,IndiGo,BOM,HYD,Afternoon,19.1,8.5,Air Traffic,No,No
+F00889,2025-01-16,SpiceJet,DEL,BOM,Evening,14.0,,None,No,No
+F00890,2025-10-10,Vistara,DEL,BLR,Night,0.0,27.7,Carrier,No,No
+F00891,2025-01-23,Air India,BLR,BLR,Afternoon,33.4,2.3,Carrier,No,No
+F00892,2026-06-03,Air India,MAA,BLR,Evening,0.0,0.0,None,No,No
+F00893,2026-10-25,IndiGo,BOM,HYD,Night,36.3,0.0,Carrier,No,No
+F00894,2025-08-05,Air India,BOM,CCU,Afternoon,0.0,62.0,None,No,No
+F00895,2025-07-29,Akasa,BOM,BLR,Morning,84.9,23.3,Carrier,No,No
+F00896,2026-01-13,IndiGo,MAA,MAA,Night,41.3,111.0,Security,No,No
+F00897,2025-12-02,SpiceJet,HYD,DEL,Evening,101.8,52.1,Air Traffic,No,No
+F00898,2025-09-13,Air India,HYD,CCU,Morning,0.0,60.2,None,No,No
+F00899,2025-09-02,Vistara,BOM,CCU,Afternoon,76.2,17.3,Air Traffic,No,No
+F00070,2025-06-01,IndiGo,DEL,DEL,Afternoon,3.0,4.4,Carrier,Yes,No
+F00827,2026-05-02,IndiGo,BOM,DEL,Evening,35.4,0.0,Air Traffic,No,No
+F00231,2025-05-22,Air India,HYD,DEL,Evening,57.7,62.5,Air Traffic,No,No
+F00588,2025-12-01,Akasa,HYD,BLR,Afternoon,25.7,13.0,None,No,No
+F00039,2026-01-14,Vistara,BOM,DEL,Night,52.5,90.9,Air Traffic,No,No
+F00731,2026-10-27,Vistara,HYD,DEL,Afternoon,9.4,32.9,Weather,No,No
+F00299,2025-04-05,IndiGo,DEL,HYD,Evening,0.0,33.4,Security,No,No
+F00110,2025-06-21,SpiceJet,CCU,DEL,Night,15.8,20.7,Weather,No,No
+F00072,2026-09-22,Vistara,DEL,CCU,Evening,70.5,0.0,Security,No,No
+F00086,2026-08-16,Vistara,BOM,HYD,Evening,76.3,82.7,Security,No,No
+F00139,2025-12-18,Air India,BOM,BLR,Morning,0.0,0.0,Air Traffic,No,No
+F00533,2025-11-26,IndiGo,DEL,BOM,Night,0.0,13.9,None,No,No
+F00801,2026-08-10,Akasa,BLR,CCU,Afternoon,40.0,1.9,Air Traffic,No,No
